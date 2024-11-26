@@ -1,3 +1,5 @@
+Link to the Kaggle Dataset: https://www.kaggle.com/datasets/siddarthvinnakota/studentsessions/data
+
 **Executive Summary**
 This dataset is designed to collect survey data of a student while they are taking an assignment. It is meant to collect and analyze a student's perceptions of an assignment and how they change. This dataset takes in a combination of quantitative and qualitative data. Based on the data collection protocol, it is also partially a time series data, estimating a trend between a student and an assignment.
 

@@ -16,7 +16,7 @@ Additionally, student life and health is constantly being monitored by many gene
 This new dataset is unique from the others, as it takes into account more specific instances, rather than broadly being administered. Compared to the StudentLife dataset, while it takes into account the entire 10-week period, this study plans on monitoring the internal assignment factors, viewing the actual work of these individual deliverables rather than the greater semester. It will be a specific niche, but it is a niche that has not been covered and can correctly slot into the greater whole of learning and perfecting the student workload balance. 
 
 
-**Data Description and Collection Protocol**
+## **Data Description and Collection Protocol**
 This dataset contains the following data:
 - User_id: The numerical identifier of the user
 - Class_id: The numerical identifier of the class
@@ -35,14 +35,14 @@ To maintain anonymity, all the users, classrooms, and assignments would be given
 The process is as follows: Students present their name (or a unique identifier), their class name, and their assignment. To reduce confusion, please try to include the entire title for the class and assignment. Once filled out, students should fill out how many days till the deadline you are starting it, the number of other assignments you also have to do within the gap till the deadline, and your perceived initial difficulty  and length before starting the assignment. Once you start, every 30 minutes, fill out your perceived difficulty for the assignment. This will continue until 6 periods pass, or 3 hours total. If you finish early, please fill out the remaining periods with 0. Don’t worry if you still have more to do, as this study will only track the first 3 hours. After the periods, the last thing you need to do is note down your perceived difficulty score. If you did the google form method, feel free to submit. Otherwise, if you do the Github download. You should have a text file called user_data.txt, so please submit this through this form: https://forms.gle/dgWeGCHfn5q6JXCV9.
 
 
-**Ethics Statement**
+## **Ethics Statement**
 This dataset follows the proper ethical guidelines. For one, participant privacy is maintained and anonymous, even allowing for anonymity in the data collection step. Additionally, class and assignments are also anonymous. Data is also collected through two means to ensure equal and fair collection protocols. By using this dataset, you are adhering to the ethical principles brought upon by the author.
 
 
-**Power Test**
+## **Power Test**
 A power test was not conducted for this dataset.
 
-**EDA**
+## **EDA**
 The first EDA I did was to compare the difficulty perceptions between the first and the last difficulties.
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F6645567%2F1eccb9720443f34dcd1878dcb37847b6%2Finitfinal.png?generation=1732579035766704&alt=media)
